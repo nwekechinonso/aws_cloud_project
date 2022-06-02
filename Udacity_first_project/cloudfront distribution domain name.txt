@@ -1,0 +1,5 @@
+Domain name
+d33bcnya08ga55.cloudfront.net
+
+S3 bucket URL
+http://my-727957285712-bucket.s3-website-us-east-1.amazonaws.com
